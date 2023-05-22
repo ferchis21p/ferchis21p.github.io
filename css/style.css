@@ -1,0 +1,655 @@
+@import url("../webfonts/FjallaOne_Regular/stylesheet.css");
+@import url("../webfonts/NotoSerif_Regular/stylesheet.css");
+@import url("../webfonts/NotoSerif_Bold/stylesheet.css");
+@import url("../webfonts/NotoSerif_BoldItalic/stylesheet.css");
+
+
+
+header, nav, main, footer {
+    margin: 0 auto 0 auto;
+    padding: 20px;
+    width: 1020px;
+}
+
+header {
+    height: 100px;
+    background-color: hsla(214,96%,18%,1.00);
+}
+header section  {
+    width: 200px;
+    margin: 0;
+    padding: 0;
+    height: 50px;
+    float: left;
+}
+
+.img_3 {
+    padding: 5px;
+    height: 40px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    left: 5px;
+    float: left;
+}
+header section h3 {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    color: #FFFFFF;
+    font-family: "NotoSerif Regular";
+    font-style: normal;
+    font-weight: lighter;
+    text-align: left;
+    text-decoration: none;
+    font-size: 10pt;
+    width: auto;
+    height: 40px;
+}
+
+
+
+nav {
+    background-color: #FAAE22;
+    height: auto;
+}
+main {
+    height: auto;
+    background-color: #9FC3FC;
+}
+nav ul li {
+    width: 100px;
+    height: auto;
+    display: inline-block;
+    margin-left: 45px;
+    margin-right: 20px;
+    padding: 6px;
+    margin-bottom: 10px;
+    text-align: center;
+    border-radius: 5px;
+    text-shadow: 0px 0px;
+    background-color: #F28705;
+}
+
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+    text-align: center;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+}
+nav ul li a:hover {
+    color: #022859;
+    font-style: normal;
+    font-weight: bolder;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+h1 {
+    width: 600px;
+    margin: 6px;
+    float: right;
+    height: auto;
+    color: #FFFFFF;
+    font-family: "NotoSerif Bold";
+    font-weight: bold;
+    font-size: 40pt;
+    text-align: left;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
+.img_2 {
+
+}
+body main article {
+    width: 1020px;
+    margin-top: 7px;
+    margin-right: 6px;
+    margin-left: 6px;
+    margin-bottom: 3px;
+    height: 570px;
+}
+
+
+h2 {
+    width: 750px;
+    height: 75px;
+    margin-bottom: 20px;
+    color: hsla(214,96%,18%,1.00);
+    font-family: "NotoSerif Bold";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30pt;
+    text-align: center;
+    text-shadow: -2px -2px 0px hsla(0,0%,100%,1.00);
+    margin-top: 50px;
+    margin-right: 18px;
+    padding-top: 8px;
+    padding-right: 2px;
+    padding-left: 2px;
+    padding-bottom: 2px;
+    margin-left: 140px;
+    border-top: thick solid hsla(39,96%,56%,1.00);
+    border-bottom: thick solid hsla(39,96%,56%,1.00);
+}
+main section h2 {
+}
+main section {
+    width: 90%;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    height: auto;
+
+}
+
+
+.img_h1 {
+    margin-top: 13px;
+    margin-right: 6px;
+    margin-left: 13px;
+    margin-bottom: 6px;
+}
+footer {
+    height: auto;
+    background-color: hsla(214,96%,18%,1.00);
+}
+footer section {
+    width: 300px;
+    color: #FAAE22;
+    font-family: "NotoSerif Bold";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 8pt;
+    height: auto;
+    display: inline-block;
+}
+
+footer section a {
+    color: #FAAE22;
+    text-decoration: underline;
+    font-family: "NotoSerif Bold";
+    font-size: 8pt;
+}
+footer section a:hover {
+    color: #9FC3FC;
+    text-decoration: underline;
+    margin-right: 0px;
+}
+
+
+h5 {
+    color: #FAAE22;
+    font-family: "NotoSerif Bold";
+    font-weight: lighter;
+    font-size: 8pt;
+    text-align: center;
+    margin-top: 38px;
+    width: auto;
+    height: auto;
+}
+.sección2 {
+    float: right;
+    text-align: center;
+}
+.img_insta {
+    height: auto;
+    width: 21px;
+    margin-left: 5px;
+}
+.img_fb {
+    width: 22px;
+    height: auto;
+}
+.img_mapache {
+    width: 30%;
+    height: auto;
+    margin-top: 13px;
+    margin-right: 6px;
+    margin-left: 13px;
+    margin-bottom: 6px;
+}
+.img_h2 {
+    margin-left: 145px;
+
+
+}
+.img_h3a {
+    margin-left: 170px;
+}
+.sección3 {
+    width: 990px;
+    margin: 10px;
+    height: auto;
+    background-color: hsla(213,98%,18%,0.35);
+}
+.sección3 p {
+    width: 850px;
+    margin-top: 15px;
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-bottom: 15px;
+    padding: 5px;
+    height: auto;
+    color: hsla(0,0%,100%,1.00);
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11pt;
+}
+
+.img_fer {
+    height: auto;
+    width: 265px;
+    float: left;
+    margin-left: 0px;
+    margin-right: 20px;
+}
+.sección3 p a {
+    font-weight: lighter;
+    font-size: 11pt;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-style: normal;
+}
+.sección3 p a:hover {
+    color: hsla(214,96%,18%,1.00);
+}
+.img_download {
+    float: right;
+    margin-right: 640px;
+}
+main section h2 {
+
+}
+.sección4 {
+    height: auto;
+    width: 100%;
+    background-image: url(../medios/im%C3%A1genes/jpg/dise%C3%B1o%20azul.jpg);
+    background-position: 10%;
+    background-size: 100% auto;
+    background-position: 0% 45%;
+		}
+.sección4 p {
+    width: 380px;
+    float: none;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    color: hsla(214,96%,18%,1.00);
+    margin-left: 570px;
+}
+.sección5 p {
+    width: 450px;
+    margin-left: 85px;
+    font-size: 14.5pt;
+    margin-top: 60px;
+    color: hsla(0,0%,100%,1.00);
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-weight: normal;
+}
+#form1 {
+    width: 60%;
+    margin-top: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0px;
+    padding: 25px;
+    height: auto;
+    background-color: hsla(214,96%,18%,1.00);
+    color: hsla(0,0%,100%,1.00);
+    font-family: "NotoSerif Regular";
+    font-style: normal;
+    border-radius: 10%;
+    font-weight: lighter;
+}
+#form1 input[type=submit] {
+    margin: 10px auto;
+    width: 25%;
+    color: hsla(0,0%,100%,1.00);
+    background-color: hsla(33,96%,48%,1.00);
+    font-family: "NotoSerif Bold";
+    height: 30px;
+    display: block;
+}
+#form1 input[type=text]    , #form1 input[type=email], #form1 textarea, #form1 input[type=tel]{
+    width: 100%;
+}
+
+
+
+
+
+.sección4 h2 {
+    width: 400px;
+    margin-left: 550px;
+    margin-right: 0px;
+}
+.img_diseño {
+    float: left;
+    margin-left: 30px;
+}
+.sección5 {
+    width: 100%;
+    height: auto;
+    background-color: hsla(330,2%,54%,0.80);
+    margin-top: 20px;
+}
+.video_1hb {
+    height: auto;
+    width: 70%;
+    margin-left: 70px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.img_s {
+    float: right;
+    margin-right: 30px;
+    margin-top: 10px;
+    height: auto;
+    margin-bottom: 30px;
+}
+.h2_s5 {
+    height: auto;
+    width: 500px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.img_reconocimientos {
+    margin-left: 10px;
+    margin-right: 10px;
+    height: auto;
+    width: 95%;
+}
+.parrafo_rec {
+    font-size: 11pt;
+    width: 865px;
+    font-family: "NotoSerif Regular";
+    font-style: normal;
+    color: hsla(214,96%,18%,1.00);
+    margin: 0 auto;
+    font-weight: lighter;
+    height: auto;
+}
+.parrafo_rec a:hover  {
+    font-family: "NotoSerif Regular";
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 11pt;
+    color: hsla(214,96%,18%,1.00);
+}
+.parrafo_rec a {
+    font-family: "NotoSerif Regular";
+    font-weight: lighter;
+    font-size: 11pt;
+}
+
+.sección_ilu {
+    height: 470px;
+    width: 305px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    float: left;
+}
+.sección_gis.sección_ilu h3 {
+    width: 270px;
+    margin-left: 15px;
+}
+.sección_gis.sección_ilu p {
+    width: 270px;
+    margin-left: 15px;
+    height: auto;
+}
+.sección_gis.sección_ilu video {
+    height: auto;
+    width: 90%;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.sección_fotos {
+    height: 270px;
+    margin: auto;
+    background-color: hsla(214,96%,18%,0.51);
+    width: 100%;
+
+}
+.sección_fotos h2  {
+    margin-right: 90px;
+    margin-left: 0px;
+    float: right;
+    color: hsla(0,0%,100%,1.00);
+    text-shadow: -2px -2px hsla(214,96%,18%,1.00);
+    height: auto;
+    width: 400px;
+}
+
+
+.img_jarron {
+    width: 350px;
+    height: auto;
+    margin-left: 90px;
+    border: 8px solid hsla(39,96%,56%,1.00);
+    margin-top: 10px;
+}
+.videocollage {
+    width: 90%;
+    margin-top: 0;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 15px;
+    height: auto;
+}
+.flex-container-sone {
+    display: flex;
+    width: auto;
+}
+.flex-container-sthree {
+    display: flex;
+    width: auto;
+    justify-content: center;
+}
+.flex-container-sone div {
+    margin: 15px;
+    padding: 15px;
+    background-color: hsla(320,2%,65%,0.55);
+    width: 270px;
+    height: auto;
+}
+.flex-container-sthree div {
+    margin: 15px;
+    padding: 15px;
+    background-color: hsla(320,2%,65%,0.55);
+    width: 270px;
+    height: 295px;
+    overflow-y: auto;
+}
+.flex-container-sone div p {
+    color: hsla(214,96%,18%,1.00);
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-weight: normal;
+    font-size: 11pt;
+    width: auto;
+    height: auto;
+    font-style: normal;
+}
+.flex-container-sthree div p {
+    color: hsla(214,96%,18%,1.00);
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-weight: normal;
+    font-size: 11pt;
+    width: auto;
+    height: auto;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+h3 {
+    width: auto;
+    margin: 0 auto;
+    height: auto;
+    color: hsla(214,96%,18%,1.00);
+    text-align: center;
+    font-family: "NotoSerif Bold";
+    font-weight: bold;
+    font-size: 16pt;
+}
+.flex-container-stwo {
+    width: auto;
+    display: flex;
+}
+.flex-container-stwo div {
+    width: 430px;
+    margin: 15px;
+    padding: 15px;
+    height: auto;
+    background-color: hsla(320,2%,65%,0.45);
+}
+.flex-container-stwo div p {
+    color: hsla(214,96%,18%,1.00);
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 11pt;
+}
+.sección6 {
+}
+.regresar {
+    margin: 0 auto;
+    width: auto;
+    height: auto;
+    border-top-style: none;
+    border-top-color: hsla(217,94%,81%,1.00);
+    border-bottom-style: none;
+    border-bottom-color: hsla(217,94%,81%,1.00);
+}
+.procesamiento {
+    border-bottom-style: none;
+    border-top-style: none;
+    font-size: 17pt;
+    text-align: left;
+}
+.flex-container-ssix {
+    display: flex;
+    margin: auto;
+    align-items: stretch;
+    width: 100%;
+    height: auto;
+}
+.flex-container-ssix div {
+    padding: 15px;
+
+}
+.div1 {
+    background-color: hsla(214,96%,18%,0.69);
+}
+.div2 {
+    background-color: hsla(214,96%,18%,0.27);
+}
+.imagen-a {
+    width: 70%;
+    height: auto;
+    margin-left: auto;
+    padding: 15px;
+    margin-right: auto;
+    margin-bottom: 0px;
+}
+.row {
+    padding: 8px;
+    margin: 8px -16px;
+    width: auto;
+    height: auto;
+}
+.column {
+    padding: 8px;
+    width: 33.33%;
+    height: auto;
+    display: none;
+    float: left;
+}
+.secas {
+}
+.content {
+    padding: 10px;
+    background-color: hsla(0,0%,100%,1.00);
+}
+.show {
+    display: block;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.btn {
+    border: none;
+    padding: 12px 15px;
+    outline: none;
+    background-color: hsla(39,96%,56%,1.00);
+    cursor: pointer;
+    color: hsla(0,0%,100%,1.00);
+    font-family: "FjallaOne Regular";
+    text-align: center;
+    letter-spacing: 1pt;
+}
+h4 {
+    color: hsla(214,96%,18%,1.00);
+    font-family: "NotoSerif Bold";
+}
+#myBtnContainer {
+}
+
+
+
+
+.btn:hover {
+    background-color: hsla(33,96%,48%,1.00);
+}
+.btn.active {
+    background-color: hsla(214,96%,18%,1.00);
+    color: hsla(0,0%,100%,1.00);
+    font-family: "FjallaOne Regular";
+    font-style: normal;
+}
+.portafolio {
+    box-sizing: border-box;
+    padding: 20px;
+    background-color: hsla(320,2%,65%,0.33);
+    font-family: "NotoSerif Regular";
+    margin: auto;
+    width: auto;
+    height: auto;
+}
+.aguadas {
+}
+.otras {
+}
+.sección_fotos p {
+    margin-left: 480px;
+    margin-right: 90px;
+    color: hsla(0,0%,100%,1.00);
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+footer section a {
+}
+.img_flxzs1 {
+    margin-left: -900px;
+    margin-right: 360px;
+}
+.flex-container-ssix p {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-size: 11pt;
+    color: hsla(0,0%,100%,1.00);
+}
+.flex-container-ssix .div2 p {
+    color: hsla(214,96%,18%,1.00);
+}
